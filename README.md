@@ -7,7 +7,6 @@
 # Cadastro de carros
 **RF**
 Deve ser possível cadastrar um novo carro.
-Deve ser possível listar todas as categories.
 
 **RN**
 A placa do carro deve ser uníca.
